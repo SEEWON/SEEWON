@@ -20,6 +20,16 @@
 
 <div align="center">
   
+  ### ✍️Blog
+
+ [https://velog.io/@seewon](https://velog.io/@seewon)
+  
+</div>
+
+
+
+<div align="center">
+  
   ### 📬️Contact Me
 
  cool@chatminder.app
