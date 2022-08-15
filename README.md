@@ -23,10 +23,10 @@
 ### 📊Stats.
 <p align="center">
   <a href="https://github.com/SEEWON">
-    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEEWON&layout=compact&show_icons=${아이콘 보여줄지}&show_owner=${소유자 표기}&theme=rose_pine&hide=${가리고 싶은 언어}" />
+    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEEWON&layout=compact&theme=rose_pine" />
   </a>
   <a href="https://github.com/SEEWON">
-    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=SEEWON&hide=${가릴항목}&hide_title=${타이틀숨김}&show_icons=${깃아이콘표시}&include_all_commits=${올해말고 전체년도 커밋표기}&theme=rose_pine" />
+    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=SEEWON&hide=${가릴항목}&theme=rose_pine" />
   </a>
   <!--<a href="https://github.com/SEEWON">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEEWON&hide=${가릴항목}&hide_title=${타이틀숨김}&show_icons=${깃아이콘표시}&include_all_commits=${올해말고 전체년도 커밋표기}&theme=rose_pine" />
