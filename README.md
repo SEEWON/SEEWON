@@ -42,7 +42,9 @@
   ### ✍️Blog
 [https://velog.io/@seewon](https://velog.io/@seewon)
   
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seewon&tag=리액트)](https://velog.io/@seewon/너네-무슨-사이야..-React-React-Native)
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seewon&tag=리액트)](https://velog.io/@seewon/너네-무슨-사이야..-React-React-Native) -->
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=seewon)](https://velog.io/@seewon) 
+
   
 </div>
 
