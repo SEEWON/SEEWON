@@ -45,13 +45,16 @@
   <a href="https://github.com/SEEWON">
     <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=SEEWON&hide=${가릴항목}&theme=rose_pine" />
   </a>
-  <!--<a href="https://github.com/SEEWON">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEEWON&hide=${가릴항목}&hide_title=${타이틀숨김}&show_icons=${깃아이콘표시}&include_all_commits=${올해말고 전체년도 커밋표기}&theme=rose_pine" />
-  </a>-->
 </p>
 
 </div>
-  
+
+<div align="center" style="text-align:center">
+
+![SEEWON's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=andyaaa78)
+
+</div>
+
 
 
 <div align="center" style="text-align:center">
