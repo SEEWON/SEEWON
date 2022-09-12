@@ -28,8 +28,6 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="100" height="100" />
 </div>
-
-<!-- <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" /></div> -->  
   
 </div>
 
@@ -51,7 +49,7 @@
 
 <div align="center" style="text-align:center">
 
-![SEEWON's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=andyaaa78)
+[![SEEWON's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=andyaaa78)](https://solved.ac/profile/andyaaa78)
 
 </div>
 
