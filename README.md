@@ -1,4 +1,4 @@
-CEO @HMBZ
+CEO @HMBZ Inc.
 
 Businessman, Software Engineer
 
